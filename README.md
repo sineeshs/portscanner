@@ -9,8 +9,8 @@ A lightweight, fast TCP port scanner written in Python. It includes OS fingerpri
 * **Zero Dependencies:** Uses only Python standard libraries.
 
 ## Usage
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/port-scanner.git`
-2. Run the script: `python scanner.py`
+1. Clone the repo: `git clone https://github.com/sineeshs/portscanner.git`
+2. Run the script: `port_scanner.py`
 3. Enter the target IP and port range.
 
 ## Disclaimer
